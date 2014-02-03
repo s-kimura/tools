@@ -7,6 +7,15 @@
 `$ ruby ./fb_scraped.rb example.txt`
 
 ## File Example
+読み込みファイルには改行区切りで更新したいURLを記載
+
 
 http://example.com/1
+
 http://example.com/2
+
+http://example.com/3
+
+:
+
+:
