@@ -6,6 +6,12 @@
 ## for Ruby
 `$ ruby ./fb_scraped.rb example.txt`
 
+# 必要モジュール
+
+* curl (http://www.hcn.zaq.ne.jp/___/unix/curl_manual.html)
+* perl or ruby
+
+
 ## File Example
 読み込みファイルには改行区切りで更新したいURLを記載
 
