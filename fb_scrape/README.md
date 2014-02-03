@@ -1,6 +1,10 @@
 # URLのリストからFacebook APIを叩いてキャッシュしなおしてもらうツール
 
+## for Perl
 `$ perl ./fb_scraped.pl example.txt`
+
+## for Ruby
+`$ ruby ./fb_scraped.rb example.txt`
 
 ## File Example
 
